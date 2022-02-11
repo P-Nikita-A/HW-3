@@ -292,7 +292,8 @@ body {
 }
 /* раздел преимущества */
 .benefits {
-  margin-top: 95px;
+  padding-top: 95px;
+  padding-bottom: 95px;
 }
 
 .bnf-title {
@@ -335,7 +336,6 @@ body {
 }
 /* раздел Чем мы занимаемся */
 .what-do-we-do {
-  margin-top: 95px;
 }
 .wdwd-title {
   font-weight: bold;
